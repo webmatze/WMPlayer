@@ -1,5 +1,5 @@
-MacRuby MP3 Audi Player
-=======================
+MacRuby MP3 Audio Player
+========================
 
 This is a simple MP3 Audio Player using MacRuby and hotcocoa.
 
@@ -12,12 +12,16 @@ _____________
 Running from source
 ___________________
 
-  $ macrake run
+    $ macrake run
+    
+  or
+    
+    $ macruby lib/application.rb
 
 Building WMPlayer.app
 _____________________
 
-  $ macrake deploy
+    $ macrake deploy
   
 LICENSE
 _______
