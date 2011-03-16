@@ -77,7 +77,7 @@ class WMPlayer
     dialog = nil
   end
   
-  def play_song
+  def play_song(param = nil)
     stop_song
     if @table.selectedRow != -1 && @songs
       @sound = sound(:file => @songs[@table.selectedRow][:file])
