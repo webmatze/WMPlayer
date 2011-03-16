@@ -3,6 +3,8 @@ MacRuby MP3 Audio Player
 
 This is a simple MP3 Audio Player using MacRuby and hotcocoa.
 
+![MacRuby MP3 Audio Player](http://i.min.us/kjUvIi.jpg)
+
 Prerequisites
 _____________
 
